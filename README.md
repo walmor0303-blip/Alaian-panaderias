@@ -1,2 +1,2 @@
 # Alaian-panaderias
-Venta de pnes facturas y cosas ricas
+Venta de panes facturas y cosas ricas
